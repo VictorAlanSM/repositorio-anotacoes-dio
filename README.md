@@ -1,2 +1,2 @@
-# repositorio-anotacoes-dio
-Repositório de anotações DIO
+# Repositório para anotações dos cursos da DIO
+## Repositório de anotações DIO
